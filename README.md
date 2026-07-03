@@ -44,10 +44,6 @@ git clone https://github.com/NikhileshKhairnar/chagtGpt-Clone.git
 
 4. Run `index.html` in your browser.
 
-## 📸 Screenshots
-
-_Add project screenshots here._
-
 ## 🎯 Future Improvements
 
 - User Authentication
